@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints
+
+test.csv
+train.csv
+
+**/.DS_Store
+**/__pycache__
+
+best_model.h5
