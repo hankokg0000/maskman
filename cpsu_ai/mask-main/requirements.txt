@@ -84,7 +84,7 @@ tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1604105030757/work
 tqdm==4.53.0
 traitlets==4.3.3
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==1.26.3
 uvicorn==0.12.2
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 webencodings==0.5.1
