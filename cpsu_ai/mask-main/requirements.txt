@@ -27,7 +27,7 @@ importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib
 ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1605455388979/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython==5.8.0
 ipython-genutils==0.2.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1600692310011/work
 jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1602551949684/work
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
