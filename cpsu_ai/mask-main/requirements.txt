@@ -59,7 +59,7 @@ protobuf==3.14.0
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pydantic==1.7.2
+pydantic==1.7.4
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1603558917696/work
 pyparsing==2.4.7
 pyrsistent @ file:///Users/runner/miniforge3/conda-bld/pyrsistent_1605115594146/work
