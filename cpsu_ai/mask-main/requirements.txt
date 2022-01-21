@@ -25,7 +25,7 @@ h5py==2.10.0
 idna==2.10
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
 ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1605455388979/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython==5.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 Jinja2==2.11.2
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1600692310011/work
