@@ -52,7 +52,7 @@ packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_15899252
 pandocfilters==1.4.2
 pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1602535608087/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
-Pillow==8.0.1
+Pillow==9.0.1
 prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1605543085815/work
 prompt-toolkit==1.0.15
 protobuf==3.14.0
